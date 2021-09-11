@@ -1,7 +1,7 @@
 # Личный проект «Mishka»
 Разработка веб-интерфейса
 
-## Открыть [Demo](https://arturtkachenko93.github.io/mishka-21/)
+## Открыть [Demo](https://arturtkachenko93.github.io/mishka/)
 
 ## Установка локально
 Перед запуском необходимо установить следующие компоненты:
